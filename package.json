@@ -1,0 +1,22 @@
+{
+  "name": "place-api-01",
+  "version": "1.0.0",
+  "description": "learning google places api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek-amin/places-api-01.git"
+  },
+  "author": "Abhishek Amin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek-amin/places-api-01/issues"
+  },
+  "homepage": "https://github.com/abhishek-amin/places-api-01#readme",
+  "dependencies": {
+    "@google/maps": "^0.5.4"
+  }
+}
